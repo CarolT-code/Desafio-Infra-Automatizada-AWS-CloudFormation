@@ -1,4 +1,4 @@
-# Desafio - Implementando de Infraestrutura Automatizada com AWS CloudFormation
+# Desafio - Implementando Infraestrutura Automatizada com AWS CloudFormation
 
 Este repositório contém anotações organizadas, exemplos e insights adquiridos durante o estudo e prática sobre a implementação de infraestrutura automatizada utilizando AWS CloudFormation.  
 O objetivo é servir como material de referência para estudos futuros, criação de novas stacks e aprofundamento em infraestrutura como código.
