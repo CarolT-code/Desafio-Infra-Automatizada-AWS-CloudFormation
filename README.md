@@ -51,15 +51,18 @@ O AWS CloudFormation suporta dois formatos principais: JSON e YAML.
   }
 }
 
+json
+
 ### Exemplo Equivalente em YAML
 
+yaml
 Resources:
   MyInstance:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
       ImageId: ami-12345678
-
+yaml
 ---
 ## 4. Diferenças entre AWS CloudFormation e Terraform
 
